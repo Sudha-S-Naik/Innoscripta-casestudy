@@ -2,6 +2,7 @@
  * The `NewsFilters` component in this TypeScript React code handles filtering news articles based on
  * search keywords, date range, news sources, and categories.
  */
+
 import React, { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Search, Calendar, Filter } from 'lucide-react';
