@@ -4,6 +4,7 @@ This document provides instructions for running the NewsHub frontend application
  Prerequisites
  
 Docker installed on your system
+
 Git (to clone the repository)
 
 Building and Running the Docker Container
